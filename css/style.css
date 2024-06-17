@@ -16,3 +16,17 @@ li {
 li ul {
     margin: 0;
 }
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+display:block;
+margin: 4px 0;
+}
+.menu a {
+padding: 8px;
+background: rgba(255, 255, 255, .80);
+display: block;
+}
